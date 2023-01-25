@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "957071578348",
+    "project_id": "loginauthentication-c7ebe",
+    "storage_bucket": "loginauthentication-c7ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957071578348:android:7c15fd15b098f959f541c9",
+        "android_client_info": {
+          "package_name": "com.example.login_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957071578348-d1jbv39ql4gqeer2umv4h68jb1er7p2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgKAd5R1lGugzZts1podGGVIX4ppZSfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957071578348-d1jbv39ql4gqeer2umv4h68jb1er7p2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957071578348-1cj973pll3btnrh6rbeiee0243dlmlcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957071578348:android:2a006770e858d559f541c9",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957071578348-d1jbv39ql4gqeer2umv4h68jb1er7p2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgKAd5R1lGugzZts1podGGVIX4ppZSfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957071578348-d1jbv39ql4gqeer2umv4h68jb1er7p2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957071578348-1cj973pll3btnrh6rbeiee0243dlmlcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
